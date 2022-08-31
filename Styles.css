@@ -1,7 +1,17 @@
+  body {
+    background-image: url("https://i.pinimg.com/originals/73/55/a0/7355a06b3c04bb8c006a0746d0ee74bd.jpg");
 
-body {
-    background-image: url("https://www.dropbox.com/s/7tna4k5w4ya8byb/Back.jpg?dl=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   h1 {
+    background-color: white;
   }
-
-
-
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: whitesmoke;
+  }
